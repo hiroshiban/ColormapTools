@@ -1,0 +1,7 @@
+*.asv
+*.fig
+matlab_crash_dump*
+java.log*
+hs_err_pid*
+.DS_Store
+Thumbs.db

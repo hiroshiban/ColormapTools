@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, cite this project and the original authors of any palette or method you use."
+title: "ColormapTools"
+type: software
+authors:
+  - name: "ColormapTools contributors"
+version: "0.1.0"
+license: BSD-2-Clause
+abstract: "A MATLAB toolkit for colormap generation and interpolation, flexible legends, and ready-to-use example palettes."
