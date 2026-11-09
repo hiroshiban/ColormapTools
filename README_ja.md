@@ -5,9 +5,11 @@
 Created: "2026-11-10 01:42:11 ban"
 Last Update: "2026-11-10 01:42:30 ban"
 
-![LANGUAGE](https://img.shields.io/badge/LANGUAGE-MATLAB-brightgreen) ![EDITED BY](https://img.shields.io/badge/EDITED%20BY-EmEditor%20%26%20VS%20Code-blue) [![LICENSE](https://img.shields.io/badge/LICENSE-BSD--2--Clause-red)](LICENSE)  
-![KEYWORDS](https://img.shields.io/badge/KEYWORDS-Colormaps%2C%20RGB%20Interpolation%2C%20Color%20Legends%2C%20Scientific%20Visualization-blue?style=social&logo=webauthn)  
-![CONTACT](https://img.shields.io/badge/CONTACT-lightgrey) ![連絡先メールアドレス](assets/ban_hiroshi_address.png)
+<p align="center">
+  <img alt="LANGUAGE" src="https://img.shields.io/badge/LANGUAGE-MATLAB-brightgreen"> <img alt="EDITED BY" src="https://img.shields.io/badge/EDITED%20BY-EmEditor%20%26%20VS%20Code-blue"> <a href="LICENSE"><img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-BSD--2--Clause-red"></a><br>
+  <img alt="KEYWORDS" src="https://img.shields.io/badge/KEYWORDS-Colormaps%2C%20RGB%20Interpolation%2C%20Color%20Legends%2C%20Scientific%20Visualization-blue?style=social&amp;logo=webauthn"><br>
+  <img alt="CONTACT" src="https://img.shields.io/badge/CONTACT-lightgrey"> <img alt="連絡先メールアドレス" src="assets/ban_hiroshi_address.png">
+</p>
 
 ColormapToolsは、ソフトウェア間で異なるカラーマップの定義に対処するため、RGBの遷移規則を明示した生成・比較・保存の関数群を提供するMATLABパッケージです。任意のRGBから配色を作る関数と、凡例を様々な形式で表示する関数も含みます。
 
