@@ -2,8 +2,8 @@
 
 [English](README.md)
 
-Created: 2026-11-07  
-Last Update: 2026-11-10
+Created: "2026-11-10 01:42:11 ban"
+Last Update: "2026-11-10 01:42:30 ban"
 
 ColormapToolsは、ソフトウェア間で異なるカラーマップの定義に対処するため、RGBの遷移規則を明示した生成・比較・保存の関数群を提供するMATLABパッケージです。任意のRGBから配色を作る関数と、凡例を様々な形式で表示する関数も含みます。
 

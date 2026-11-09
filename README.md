@@ -2,8 +2,8 @@
 
 [日本語](README_ja.md)
 
-Created: 2026-11-07  
-Last Update: 2026-11-10
+Created: "2026-11-10 01:42:11 ban"
+Last Update: "2026-11-10 01:42:32 ban"
 
 ColormapTools provides MATLAB functions for generating, comparing and sharing colormaps with explicit RGB transition rules. The package addresses software-dependent HSV definitions and provides additional tools for custom RGB palettes and multiple legend formats.
 
