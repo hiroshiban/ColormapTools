@@ -5,6 +5,10 @@
 Created: "2026-11-10 01:42:11 ban"
 Last Update: "2026-11-10 01:42:32 ban"
 
+![LANGUAGE](https://img.shields.io/badge/LANGUAGE-MATLAB-brightgreen) ![EDITED BY](https://img.shields.io/badge/EDITED%20BY-EmEditor%20%26%20VS%20Code-blue) [![LICENSE](https://img.shields.io/badge/LICENSE-BSD--2--Clause-red)](LICENSE)  
+![KEYWORDS](https://img.shields.io/badge/KEYWORDS-Colormaps%2C%20RGB%20Interpolation%2C%20Color%20Legends%2C%20Scientific%20Visualization-blue?style=social&logo=webauthn)  
+![CONTACT](https://img.shields.io/badge/CONTACT-lightgrey) ![Contact email](assets/ban_hiroshi_address.png)
+
 ColormapTools provides MATLAB functions for generating, comparing and sharing colormaps with explicit RGB transition rules. The package addresses software-dependent HSV definitions and provides additional tools for custom RGB palettes and multiple legend formats.
 
 The package has three main parts:
